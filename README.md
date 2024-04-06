@@ -17,12 +17,13 @@ http://localhost:8080/springbootxs5o6/admin/dist/index.html
 	    password: 123456 （数据库密码）
 
 
-![输入图片说明](image.png)
+![image](https://github.com/hjsdjko/springboott01gx/assets/120558513/f0739ac8-758c-4acb-8459-5cf128a0c507)
 
-![输入图片说明](image1.png)
+![image](https://github.com/hjsdjko/springboott01gx/assets/120558513/f3a5a07a-43d6-49de-8356-60ee2bd40680)
 
-![输入图片说明](image2.png)
+![image](https://github.com/hjsdjko/springboott01gx/assets/120558513/674d6594-5276-4c2c-aade-da1f64cd81f1)
 
-![输入图片说明](image3.png)
+![image](https://github.com/hjsdjko/springboott01gx/assets/120558513/4c3c6bef-8f79-47af-b05d-34cc667f3677)
 
-![输入图片说明](image4.png)
+![image](https://github.com/hjsdjko/springboott01gx/assets/120558513/b9490df5-6597-44ac-9da1-89972533867d)
+
